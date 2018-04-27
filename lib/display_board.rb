@@ -1,3 +1,4 @@
+board = [" "," "," "," "," "," "," "," "," "]
 rows = ["   |   |   \n", "-----------\n","   |   |   \n", "-----------\n","   |   |   \n"]
 def display_board(rows)
   prints board
